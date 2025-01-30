@@ -13,7 +13,7 @@ Aplikacja **Task Manager** umożliwia zarządzanie zadaniami z możliwością do
 
 ## **🛠️ Technologie**
 - **Frontend:** React.js, CSS  
-- **Backend:** .NET 8.0, C#  
+- **Backend:** .NET 9.0, C#  
 - **Baza danych:** (Obecnie lista w pamięci, można podpiąć SQLite/PostgreSQL)  
 
 ---
