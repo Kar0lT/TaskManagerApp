@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Portfolio\TaskManagerAPI\obj\Debug\net7.0\TaskManagerAPI.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Portfolio\TaskManagerAPI\obj\Debug\net7.0\TaskManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Portfolio\TaskManagerAPI\obj\Debug\net7.0\TaskManagerAPI.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Portfolio\TaskManagerAPI\obj\Debug\net7.0\TaskManagerAPI.AssemblyInfo.cs
+C:\Users\PC\Desktop\Portfolio\TaskManagerAPI\obj\Debug\net7.0\TaskManagerAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Portfolio\TaskManagerAPI\obj\Debug\net7.0\TaskManagerAPI.MvcApplicationPartsAssemblyInfo.cache
